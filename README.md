@@ -1,3 +1,5 @@
+**NOTE: ~~[http://www.easersoft.com]~~ The Domain Lost, This Is No Longer Offical Site.**
+
 # ExtremeCopy
 ![](ExetremeCopyUI.jpg)
 
@@ -13,8 +15,6 @@ ExtremeCopy is a Windows utility which copy and move files extremely fast, it wi
    * Supports Break Point which able to pause when encounters any problems such as file being locked and resume back with click on "Continue" button once the problem fixed.
    * Supports multiple languages.
 
-
-**Site**: [http://www.easersoft.com](http://www.easersoft.com)
 
 For high performance purpose, all of code are written in C++ and using Win32 API directly.
 
